@@ -1,6 +1,6 @@
 **A collaborative project from Masai school.**
 
-*Myntra clone.*
+*Myntra clone by venu.*
 
 **Deployed Link**
 
