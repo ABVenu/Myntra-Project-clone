@@ -1,7 +1,7 @@
 **A collaborative project from Masai school.**
 
 *Myntra clone by venu.*
-
+*Myntra clone by venu.*
 **Deployed Link**
 
 https://saurav01myntra.netlify.app/
